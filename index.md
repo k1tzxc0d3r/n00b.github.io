@@ -2,7 +2,7 @@
 <html>
 <head><title>
 <title>N00d Site</title>
-<link rel="systlesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 	
