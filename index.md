@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-<head><title>
+<head>
 <title>N00d Site</title>
 <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
