@@ -1,9 +1,11 @@
 body { 
-color: lightblue;
-text-align: left;
+
+    color: lightblue;
+    text-align: left;
  }
 
- h1{ 
+ h1{
+
  	color: red;
  	text-align: right;
   }
