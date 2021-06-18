@@ -5,10 +5,8 @@
 
 </head>
 <body>
-	
-
-<h1>Hello this is my first website</h1>
-<p>Starting with a simple text page</p>
+	<h1>Welcome to n00bs</h1>
+	<p>This is a place for noobs like you can get lost in the world of technology</p>
 
 
 
