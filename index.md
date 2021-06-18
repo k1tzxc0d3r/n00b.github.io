@@ -1,12 +1,16 @@
+<!DOCTYPE html>
 <html>
+<head><title>
+<title>N00d Site</title>
+<link rel="systlesheet" href="styles.css">
+</head>
 <body>
-	<h1>Hello this is my first website</h1>
-	<p>Starting with a simple text page</p>
+	
+
+<h1>Hello this is my first website</h1>
+<p>Starting with a simple text page</p>
+
+
+
 </body>	
-
-
-
-
-
-
 </html>
