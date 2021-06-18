@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>N00d Site</title>
