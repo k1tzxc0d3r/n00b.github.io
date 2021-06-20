@@ -1,16 +1,24 @@
 body { 
 
-    background-color: skyblue;
+    background-color: cyan;
  }
 
- h1{
+ h1 {
 
- 	color: black;
+ 	color: darkcyan;
  	text-align: center;
   }
 
+h2 { 
+
+    color: darkgreen;
+    text-align: center;
+
+ }
+
+
 p { 
-    color: black;
+    color: cyan;
     text-align: center;
 
  }

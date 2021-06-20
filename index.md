@@ -6,8 +6,9 @@
 </head>
 <body>
 	<h1>Welcome to n00bs</h1>
-	<p>This is a place for noobs like you can get lost in the world of technology</p>
-	<h2>First thing to do while you are here.</h2>
+	<h2>This is a place for noobs like you can get lost in the world of technology</h2>
+	<p><i>I create this site to help people learn how to hack and to also freshing up my skill sets</i></p>
+	
 
 
 
