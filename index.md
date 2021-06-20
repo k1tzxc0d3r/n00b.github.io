@@ -5,12 +5,8 @@
 
 </head>
 <body>
-	<h1>Welcome to n00bs</h1>
-	<h2>This is a place for noobs like you can get lost in the world of technology</h2>
-	<p><i>I create this site to help people learn how to hack and to also freshing up my skill sets</i></p>
-	
-
-
-
-</body>	
+    <canvas id="canvas"></canvas>
+    <a href="https://codepen.io/Loopez10/full/dMaVdQ" class="full-screen" target="_blank"></a>
+    <script src="auto.js"></script>
+</body>
 </html>
